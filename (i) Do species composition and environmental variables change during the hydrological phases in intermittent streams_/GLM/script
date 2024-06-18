@@ -1,15 +1,3 @@
-#*****************************************************************************************
-# Manuscript: "Influence of intermittent stream dynamics on predator-prey interactions"
-# 1*Milena Gonçalves-Silva, 2Elvira D'Bastiani, 3Thibault Datry, 1Carla Ferreira Rezende
-# 1Programa de Pós-Graduação em Ecologia e Recursos Naturais, Universidade Federal do Ceará, Brasil.
-# 2Department of Ecology and Evolutionary Biology, University of California, Los Angeles, USA.
-# 3INRAE, UR RiverLy, Centre de Lyon-Villeurbanne, Villeurbanne, France.
-# *Corresponding author: Milena Gonçalves-Silva, e-mail: milenagoncalves.bio@gmail.com
-# Script created by: Elvira D’Bastiani
-#*****************************************************************************************
-
-#Citation: Gonçalves-Silva, M., D'Bastiani, E., Datry, T., & Rezende, C. F. (Year). Influence of intermittent stream dynamics on predator-prey interactions. Journal of [Journal Name], [Year], [Volume(Issue)], [Page Range]. DOI: [DOI Number].
-
 #########################################################################################################################################
 #########################################################################################################################################
 #Question: Is the number of interactions affected by predator richness, abundance, or the extension (meters) of the pools?
