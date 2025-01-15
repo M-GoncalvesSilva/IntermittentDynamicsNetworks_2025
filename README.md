@@ -1,10 +1,10 @@
-# Influence of intermittent stream dynamics on predator-prey interactions
+# Hydrological fluctuations determine predator-prey interactions in a semi-arid non-perennial river
 
 ## Abstract
-Intermittent rivers and ephemeral streams are dynamic ecosystems with periodic interruptions in flow, leading to temporary or complete absence of water. Such dynamics (flowing to dry phases) create a mosaic of isolated pools, which can decrease habitat volume and connectivity. In addition to reduced resource availability and increased predation levels, the drying dynamics impacts both food webs and their connectivity. In this study we asked: (i) Do species composition and environmental variables change during the hydrological phases in intermittent streams? (ii) Do hydrological phases in intermittent streams affect predator-prey network structures? (iii) Do stochastic factors during the dry phase affect predator-prey network structures? We infer predator-prey interactions using fish food items along of 1km of the intermittent river Tabocas during flowing (23 sections) and dry phases (22 isolated pools). We identified 18 predator species and 11 ecological categories of food items. We found that species composition and environmental variables change during the flowing and dry phases (semi-arid conditions) in intermittent streams. Despite similar species richness between phases, significant differences in species composition highlight the importance of considering temporal fluctuations in understanding community dynamics. Moreover, our findings demonstrate that hydrological fluctuations affect predator-prey network structures. Specifically, during the flowing phase, we noted a nested pattern in interaction networks, while during the dry phase, the networks within isolated pools displayed different patterns, including nested and/or modular pattern, high specialisation, and random structures. Our findings also highlight that stochastic factors can operate during the dry phase, leading to the formation of isolated pools and the creating predator-prey network with random structures. The key factor contributing to the emergence of random networks is the reduction in the number of predator-prey links and the increased specialisation within the pools. Given the limited number of these links of most sampled pools, fish species become more vulnerable. This highlights the importance of identifying priority aquatic refuges to sustain freshwater biodiversity in intermittent streams. Our study highlights the importance of considering hydrological variability and considering stochastic factors in devising strategies to conserve biodiversity and minimize the impact of climate change on the biota of tropical semi-arid ecosystems.
+We investigated predator-prey interactions in the River Tabocas, a non-perennial river (NPR) in Brazil’s semi-arid region, analysing variations between flowing and dry hydrological phases. We analysed predator-prey interactions using fish food items along 1 km of the NPR during flowing (23 sections) and dry (22 isolated pools) phases, identifying 18 predator species and 11 ecological categories of prey. Our results indicate that predators (fish) composition, abundance and environmental variables shift between flowing and dry phases. Despite similar richness, significant differences in fish species composition underscore the importance of temporal fluctuations in predator community dynamics. During the flowing, predator-prey interaction network exhibited a nested pattern. In contrast, the dry phase we observed diverse patterns of predator-prey interaction networks in isolated pools, including nested, modular, specialised, and random structures. Stochastic factors during the dry phase contribute more to the structure of predator-prey network interactions. Predator-prey interactions networks with random structure correspond to isolated pools with fewer predator-prey links and high specialisation rates. Our findings show the importance of identifying priority aquatic refuges to sustain freshwater biodiversity in NPRs. Conservation strategies must account for hydrological variability and stochastic factors to mitigate climate change impacts on the biota of tropical semi-arid NPR.
 
 ## Keywords
-climate changes, drying rivers networks, temporary streams, semi-arid climate.
+climate changes, drying rivers networks, intermittent streams, fish.
 
 **NAMING**
 
@@ -12,7 +12,7 @@ climate changes, drying rivers networks, temporary streams, semi-arid climate.
 
 File 1. README.txt  
     
-Folder: (i) Do species composition and environmental variables change during the hydrological phases in intermittent streams? 
+Folder: (i) Composition, abundance and richness of predator (fish) 
         Folder: Betadiversity
              File 1. script.r
              File 2. data_betas.csv
@@ -52,7 +52,7 @@ Folder: (i) Do species composition and environmental variables change during the
              File 1. script.r
              File 2. interactions_pools.csv
              
-Folder: (ii) Do hydrological phases in intermittent streams affect predator-prey network structures? (iii) Do stochastic factors during the dry phase affect predator-prey network structures?
+Folder: (ii) Structure of predator-prey interactions during flowing and dry phases
              File 1. script.r
              File 2. fooditems_flowing.csv
 
