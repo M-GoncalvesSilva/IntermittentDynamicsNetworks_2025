@@ -13,6 +13,7 @@ climate changes, drying rivers networks, intermittent streams, fish.
 File 1. README.txt  
     
 Folder: (i) Composition, abundance and richness of predator (fish) 
+
         Folder: Betadiversity
              File 1. script.r
              File 2. data_betas.csv
@@ -53,9 +54,9 @@ Folder: (i) Composition, abundance and richness of predator (fish)
              File 2. interactions_pools.csv
              
 Folder: (ii) Structure of predator-prey interactions during flowing and dry phases
+
              File 1. script.r
              File 2. fooditems_flowing.csv
-
              File 3. P1.csv
              File 4. P2.csv
              File 5. P3.csv
